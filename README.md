@@ -1,2 +1,11 @@
-# Data-Visualization-with-Altair
-A repository containing some of the Interactive Graphs I have created using Python and the Altair library
+# Data Visualization using Altair
+
+This is a repository for some of the graphs I have developped using the Altair Library.
+
+
+Graph 3:
+
+![graph3](Images/Graph 3.png)
+
+
+
