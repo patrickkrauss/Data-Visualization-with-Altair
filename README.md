@@ -5,7 +5,7 @@ This is a repository for some of the graphs I have developped using the Altair L
 
 Graph 3:
 
-![graph3](Images/Graph 3.png)
+![graph3](Images/Graph3.png)
 
 
 
