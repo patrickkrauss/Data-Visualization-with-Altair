@@ -19,7 +19,7 @@ You can open the intercative Chart by [Clicking here](https://vega.github.io/edi
 
 ### Graph 2
 
-This chart provides the ability to examine delayed deliveries by branch responsible, and facilitates the process of analyzing issues and pinpointing delayed deliveries with the delivery number and the extent of delay in days. Additionally, the chart offers zoom functionality and scroll to adjust the view.
+This chart provides the ability to examine delayed deliveries by branch responsible, facilitating the process of analyzing issues and pinpointing delays with the delivery number as tooltip and the extent of delay in days. Additionally, the chart offers zoom functionality and scroll to adjust the view.
 
 Each branch responsible for the delivery is highlighted in different colors, and interactive features such as clicking on the color on the Pie Chart or selecting a specific delivery offers the convenience of analyzing a particular unit.
 
