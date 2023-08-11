@@ -58,9 +58,11 @@ You can open this intercative Chart [Clicking here]()
 ### Chart 6 - Client Revenue Overview
 
 This chart is designed to showcase all the commercial indicators of the company's top clients. It provides insights into which clients may need a shipping fee readjustment.
+\
 With so many options, comprehending this graph may seem a bit daunting, but we will learn each indicator step by step.
 
 The X-axis displays the first commercial indicator, showing how much is charged in $ for every 1 Kilogram transported to the customer.
+\
 ***For example, if the shipping fee was $ 40.00 and the product weighs 25 kilograms, this indicator would be 1.6***
 
 The Y-axis represents the second indicator, comparing the shipping fee charged with the value of the goods transported as a percentage(%). 
