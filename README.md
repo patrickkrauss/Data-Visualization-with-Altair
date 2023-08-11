@@ -60,14 +60,15 @@ You can open this intercative Chart [Clicking here]()
 This chart is designed to showcase all the commercial indicators of the company's top clients. It provides insights into which clients may need a shipping fee readjustment. With so many options, comprehending the graph can bee seen daunting, but we will learn each indicator step by step.
 
 The X-axis displays the first commercial indicator, showing how much is charged in $ for every 1 Kilogram transported to the customer.
-_For example, if the shipping fee was $ 40,00 and the product weighs 25 kilograms, this indicator would be 1.6_
+***For example, if the shipping fee was $ 40,00 and the product weighs 25 kilograms, this indicator would be 1.6***
+
 The Y-axis represents the second indicator, comparing the shipping fee charged with the value of the goods transported as a percentage(%). 
-_For example, if the product cost $ 200 and the shipping value was 20, this indicator would be 10%_
+***For example, if the product cost $ 200 and the shipping value was 20, this indicator would be 10%***
+
 The color is our third indicator, representing the suggested adjustment of the shipping fee, to ensure a better financial return of the client. The warmer the color, the greater the adjustment recommended by the system.
+
 The circle's size is our final indicator, indicating the size of the client in comparison to other. In other words, it reflects how much the client contributes to the company's revenue.
 
-
-Observando o gráfico abaixo, podemos chegar que os clientes no canto inferior esquerdo precisam de uma maior atenção, pois são cliente que não possuem um bom desempenho pela quantidade de peso transportado, nem em comparação com o valor de mercadoria, assim como a cor nos indica clientes que precisam de uma maior atenção
 
 Observing the chart below, we can **conclude that the clients in the lower left corner necessitate closer examination**, as they exhibit **subpar performance** in both weight transportation performance and merchandise value. Similarly, the color indicates clients that need more attention.
 
