@@ -43,12 +43,20 @@ You can open this intercative Chart [Clicking here](https://vega.github.io/edito
 
 ### Chart 4 - 
 
+This chart displays two main financial indicators of clients, the first being the Bars that shows the difference between the value of shipping charged and the value of the goods in percentage (%). This allows for control to prevent clients from obtaining a very low shipping cost for small but high-value items, such as electronic devices.
+
+The second indicator is the Line, wich displays how much is charged in $ for every 1 Kilogram transported, usefull for clients with light merchandise but bulky goods.
+
+Clients with both a very reduced bar and line, should be checked thoroughly to verify if the client does generate profit.
+
 ![graph4](Images/Graph4.png)
 
 You can open this intercative Chart [Clicking here]()
 
 
 ### Chart 5 - Branch Performance Indicators
+
+This chart enables the examination of specific indicators of each branch of the company, allowing the comparison of key performance metrics such as: number of deliveries, total shipped value, quantity of volumes, average delivery fee and total weight transported.
 
 ![graph5](Images/Graph5.png)
 
@@ -66,6 +74,7 @@ The X-axis displays the first commercial indicator, showing how much is charged 
 ***For example, if the shipping fee was $ 40.00 and the product weighs 25 kilograms, this indicator would be 1.6***
 
 The Y-axis represents the second indicator, comparing the shipping fee charged with the value of the goods transported as a percentage(%). 
+\
 ***For example, if the product cost $ 200.00 and the shipping value was 20.00, this indicator would be 10%***
 
 The color is our third indicator, representing the suggested adjustment of the shipping fee, to ensure a better financial return of the client. The warmer the color, the greater the adjustment recommended by the system.
