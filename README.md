@@ -44,31 +44,34 @@ You can open this intercative Chart [Clicking here](https://vega.github.io/edito
 
 ## Charts of Financial analysis
 
-### Chart 4 - 
+### Chart 4 - Client Profitability Indicators 
 
-This chart displays two main financial indicators of clients, the first being the Bars that shows the difference between the value of shipping charged and the value of the goods in percentage (%). This allows for control to prevent clients from obtaining a very low shipping cost for small but high-value items, such as electronic devices.
+This chart displays the two main financial indicators of the company top 20 clients
 
-The second indicator is the Line, wich displays how much is charged in $ for every 1 Kilogram transported, usefull for clients with light merchandise but bulky goods.
+The first indicator is the Blue Bars which shows the difference between the value charged for the shipping, and the value of the merchadinse in a percentage (%). This metric is important for control of clients with small packages but high-value items, such as electronic devices.
 
-Clients with both a very reduced bar and line, should be checked thoroughly to verify if the client does generate profit.
+The second indicator is the Red Line, which displays how much is charged in $ for every 1 Kilogram transported, this is a standard cost control metric for all shipping companies.
+
+Clients that have both a reduced Bar and Line, should be checked thoroughly to verify if this client does generate profit.
 
 ![graph4](Images/Graph4.png)
 
 You can open this intercative Chart [Clicking here]()
 
 
-### Chart 5 - Branch Performance Indicators
+### Chart 5 - Key Branch Performance Indicators
 
-This chart enables the examination of specific indicators of each branch of the company, allowing the comparison of key performance metrics such as: number of deliveries, total shipped value, quantity of volumes, average delivery fee and total weight transported.
+This chart enables us to examine specific indicators of each branch of the company.
+Allowing the comparison of key performance metrics such as: number of deliveries, total shipped value, quantity of volumes, average delivery fee and total weight transported.
 
 ![graph5](Images/Graph5.png)
 
 You can open this intercative Chart [Clicking here]()
 
 
-### Chart 6 - Client Revenue Overview
+### Chart 6 - Revenue Overview of Top Clients
 
-This chart is designed to showcase all the commercial indicators of the company's top clients. It provides insights into which clients may need a shipping fee readjustment.
+This chart is designed to showcase all the commercial indicators of the company's top 30 clients. It provides insights into which clients may need a shipping fee readjustment.
 \
 With so many options, comprehending this graph may seem a bit daunting, but we will learn each indicator step by step.
 
@@ -85,7 +88,7 @@ The color is our third indicator, representing the suggested adjustment of the s
 The circle's size is our final indicator, indicating the size of the client in comparison to other. In other words, it reflects how much the client contributes to the company's revenue.
 
 
-Observing the chart below, we can **conclude that the clients in the lower left corner necessitate closer examination**, as they exhibit **subpar performance** in both weight transportation performance and merchandise value. Similarly, the color indicates clients that need more attention.
+Observing the chart below, we can **conclude that the clients in the lower left corner necessitate closer examination**, as they exhibit **subpar financial returns** in both weight transportation performance and merchandise value. Similarly, the color indicates clients that need more attention.
 
 
 
