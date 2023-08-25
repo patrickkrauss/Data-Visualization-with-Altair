@@ -1,17 +1,18 @@
 # Data Visualization using Altair
 
 
-This is a repository for some of the graphs I have developped using the Altair Library and Pandas with Python. All the data here published have been anonymized before publish.
+This is a repository for some of the graphs I have been developing using the Altair Library and Pandas with Python. 
+All the data of this project has been anonymized before publish.
 
 
-All the graphs you see bellow are created using the [Altair Library](https://github.com/altair-viz/altair), which is built upon the [Vega Lite Library](https://github.com/shadfrigui/vega-lite). Vega Lite is dava visualization library that focuses on building interactive graphs using using declarative visualization grammar with JSON, Altair is a Python wrapper of the Vega Lite library. You can learn more at the links above.
+All the graphs you see bellow are created using the [Altair Library](https://github.com/altair-viz/altair), which is built upon the [Vega Lite Library](https://github.com/shadfrigui/vega-lite). Vega Lite is data visualization library that focuses on building interactive graphs using using declarative visualization grammar with JSON, Altair is a Python wrapper of the Vega Lite library. You can learn more at the links above.
 
-This project was created for use in my company, while also serving me as a personal challenge and a test of the library strenghts and limitations.
+This project was created for use in my company, while also serving as a personal challenge and a test of the library strenghts and limitations.
 
 ## Charts of Deliveries Performance 
 
 ### Chart 1 - Overview of Delayed Deliveries
-This is the first chart I created, with the goal of understanding the Altair's syntax. It illustrates the volume of overdue deliveries segregated by delivery states. While this chart offers a very simplified view, it serve as a foundation for developing more intricate visual representations.
+This is the first chart I created, with the goal of understanding the Altair's syntax. It illustrates the volume of overdue deliveries aggregated by delivery states. While this chart offers a very simplified view, it serve as a foundation for developing more intricate visual representations.
 
 ![graph1](Images/Graph1.png)
 
@@ -29,11 +30,13 @@ You can open this intercative Chart [Clicking here](https://vega.github.io/edito
 
 ### Chart 3 - Heatmap of Delayed Deliveries
 
+In this chart the objective is to quickly locate bottlenecks in the chain delivery, with the branch undergoing higher volume of delays positioned at the bottom of the chart.
+
 The X-axis represents the number of days the delivery is overdue, while the Y-axis is the State of destiantion of the delivery.
 
-Additionally, color is used to aid in visualizing the quantity of orders that are delayed within that timeframe.
+Additionally, the color is used to aid in visualizing the quantity of orders that are delayed within that time frame.
 
-In the Chart bellow, it's evident that the BA State is experiencing substantial increase in overdue deliveries within a 3-day window.
+In this Chart bellow, it's evident that the BA State is experiencing substantial increase in overdue deliveries within a 3-day window, likely due to a significant increase in the number of deliveries received.
 
 ![graph3](Images/Graph3.png)
 
