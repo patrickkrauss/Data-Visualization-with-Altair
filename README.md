@@ -1,10 +1,13 @@
 # Data Visualization using Altair
 
 
-Welcome to my GitHub repository presenting a collection of graphs I have created using the Altair Library along with Pandas in Python. It's important to note that all this project data has been anonymized prior to publication.
+Welcome to my GitHub repository presenting a collection of graphs I have created using the Altair Library along with Pandas in Python. 
+\
+It's important to note that all this project data has been anonymized prior to publication.
 
-Every graph you see below have been constructed using the [Altair Library](https://github.com/altair-viz/altair), which stands on the foundation of the [Vega Lite Library](https://github.com/shadfrigui/vega-lite). Vega Lite is a a data visualization library, that excels on building interactive graphics through declarative visualization grammar with JSON. Altair is a Python wrapper for the Vega Lite library, offering powerful graphing capabilities. Feel free to explore more about these technologies in the links above.
-
+Every graph you see below have been constructed using the [Altair Library](https://github.com/altair-viz/altair), which stands on the foundation of the [Vega Lite Library](https://github.com/shadfrigui/vega-lite). Vega Lite is a a data visualization library, that excels on building interactive graphics through declarative visualization grammar with JSON.
+\
+Altair is a Python wrapper for the Vega Lite library, offering powerful graphing capabilities. Feel free to explore more about these technologies in the links above.
 
 This project was developed for use in my company, while also serving as a personal challenge and a test of the library strenghts and limitations.
 
