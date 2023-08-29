@@ -1,1 +1,82 @@
-#
+Branch Responsible;Delivery Number;Sender;Payer;Receiver;State Destination;Delivery Forecast;Days of Delay
+BHI;52644;Fibria Celulose S/A;Fibria Celulose S/A;Mogai Tecnologia;MS;28/10/20;21
+BHI;18144;Gerdau S.A.;Gerdau S.A.;Fixer Propaganda;MS;16/11/20;2
+BHI;188188;Netshoes;Netshoes;Linux Treinamentos;MS;27/10/20;22
+BHI;276574;Gafisa;Gafisa;Gráfica Tropical;MS;08/11/20;10
+BHI;497069;Klabin;Klabin;Delta Informática;MS;17/11/20;1
+SRP;185757;Synergy Group;Synergy Group;SBN Portifolios;RR;11/11/20;7
+SRP;8628;Marilan Alimentos S/A;Marilan Alimentos S/A;Geofast;RR;16/11/20;2
+MTS;130;Hotel Urbano;Hotel Urbano;Construtora MBR;BA;16/11/20;2
+MTS;93130;Kalunga Papelaria;Kalunga Papelaria;Argon Otimização de Sites;BA;16/11/20;2
+MTS;3374;Cemar;Dinamo Engenharia;Dinamo Engenharia;BA;20/10/20;29
+MTS;272033;Todeschini;Todeschini;Naturale Projetos;BA;08/11/20;10
+MTS;152601;Prodepa;Prodepa;Casa da Borracha Fedrizi;TO;17/11/20;1
+MTS;138527;Grupo Santine;Grupo Santine;Souza Telecomunicações;TO;13/10/20;36
+MTS;272562;Magna Sistemas;Magna Sistemas;Tolentino Investimentos;TO;17/11/20;1
+MTS;166045;Mercotudos S/A;Mercotudos S/A;Becker Imóveis;TO;17/11/20;1
+MTS;753;Editora Vetor;Editora Vetor;Belvedere Investimentos;TO;17/11/20;1
+MTS;417914;Battistella Veiculos;Battistella Veiculos;Vital Alimentos;BA;06/09/20;42
+MTS;216514;RFM Construtora;RFM Construtora;Celmi Tecnologia em Pesagem;BA;17/11/20;1
+MTS;67777;Dakota S/A;Dakota S/A;Porto Central Engenharia;BA;17/11/20;1
+MTS;32236;Fujioka Eletro Imagem;Fujioka Eletro Imagem;Kasmanas Assessoria;BA;17/11/20;1
+MTS;300960;Primax Transportes;Primax Transportes;Fulllab Corretora de Seguros;BA;17/11/20;1
+MTS;189643;SJB Bioenergia;SJB Bioenergia;Contabilidade Onyx;BA;14/11/20;4
+MTS;129112;Baumgarten Gráfica;Baumgarten Gráfica;Milênio Imóveis;BA;16/11/20;2
+MTS;4331;Softwares Nordica;Softwares Nordica;Fanti Cabos LTDA;BA;16/11/20;2
+MTS;2414;Bonasoldi;Bonasoldi;Siritec Sistemas Elétricos;BA;16/11/20;2
+MTS;13608;Next Comunicações;Next Comunicações;Protege Seguros;BA;16/11/20;2
+MTS;1368;Instituto Genesis;Instituto Genesis;Financeamentos Alfa;BA;17/11/20;1
+MTS;12140;Movee;Movee;Scarponi LTDA;BA;17/11/20;1
+MTS;96558;Construtora Calper;Construtora Calper;Oceano Serviços LTDA;BA;17/11/20;1
+MTS;66;Digideias Agência de Marketing;Digideias Agência de Marketing;Mundo das Tintas;BA;17/11/20;1
+MTS;100388;laselva Soluções;laselva Soluções;Expan Imóveis;BA;17/11/20;1
+MTS;301009;Instituto Realize;Coruja Informatica;Coruja Informatica;BA;17/11/20;1
+MTS;28561;Arius Sistemas;Arius Sistemas;Parigot Advogados;BA;17/11/20;1
+MTS;272917;Evolua Software;BFG Materiais;BFG Materiais;BA;17/11/20;1
+MTS;579;Doceria Norma;Doceria Norma;Prime Express;BA;17/11/20;1
+FLP;336830;Toptall Sistemas;Toptall Sistemas;Conceito 21 Consultoria;RS;29/09/20;50
+SED;152155;Imperio Investimentos;Imperio Investimentos;Rewald Engenharia;BA;16/11/20;2
+SED;23520;Caletti Advogados;Caletti Advogados;Arpia Comunicação;BA;08/11/20;10
+SED;88841;Techsolo Agricultura;Techsolo Agricultura;Fortbras;BA;20/09/20;32
+SED;214090;Elo Brindes;Blue Idiomas;Blue Idiomas;BA;31/08/20;25
+SED;308767;Grupo Nova Era;Grupo Nova Era;Magno Designs;BA;14/11/20;4
+SED;276104;Atuale Imobiliária;Atuale Imobiliária;Bid Leilões;BA;03/11/20;15
+SED;281676;Imobiliária Don;Imobiliária Don;Imobiliária Don;BA;03/11/20;15
+SED;567276;Bid Leilões;Bid Leilões;Atuale Imobiliária;BA;16/11/20;2
+SED;97815;Magno Designs;Magno Designs;Grupo Nova Era;BA;09/11/20;9
+COT;133372;Blue Idiomas;Blue Idiomas;Elo Brindes;BA;17/11/20;1
+COT;308279;Fortbras;Fortbras;Techsolo Agricultura;BA;07/11/20;11
+RCR;110469;Arpia Comunicação;Arpia Comunicação;Caletti Advogados;BA;14/11/20;4
+RCR;20497;Rewald Engenharia;Rewald Engenharia;Imperio Investimentos;BA;01/11/20;17
+RCR;5608;Conceito 21 Consultoria;Conceito 21 Consultoria;Toptall Sistemas;BA;01/11/20;17
+ESG;185174;Prime Express;Prime Express;Doceria Norma;TO;14/11/20;4
+ESG;260143;BFG Materiais;BFG Materiais;Evolua Software;TO;14/11/20;4
+ESG;261600;Parigot Advogados;Parigot Advogados;Arius Sistemas;TO;14/11/20;4
+ESG;275456;Coruja Informatica;Coruja Informatica;Instituto Realize;TO;10/11/20;8
+WCV;261119;Expan Imóveis;Expan Imóveis;laselva Soluções;PA;14/11/20;4
+SEP;261700;Mundo das Tintas;Mundo das Tintas;Digideias Agência de Marketing;PA;11/11/20;7
+SEP;427225;Oceano Serviços LTDA;Oceano Serviços LTDA;Construtora Calper;RN;27/10/20;22
+SEP;37394;Scarponi LTDA;Scarponi LTDA;Movee;PA;06/10/20;43
+SEP;92142;Financeamentos Alfa;Financeamentos Alfa;Instituto Genesis;PA;07/11/20;11
+SEP;92530;Protege Seguros;Protege Seguros;Next Comunicações;PA;11/11/20;7
+SEP;181022;Siritec Sistemas Elétricos;Siritec Sistemas Elétricos;Bonasoldi;PA;16/11/20;2
+SEP;21988;Fanti Cabos LTDA;Fanti Cabos LTDA;Softwares Nordica;PA;17/11/20;1
+SEP;98554;Milênio Imóveis;Milênio Imóveis;Baumgarten Gráfica;RR;17/11/20;1
+SEP;36766;Contabilidade Onyx;Contabilidade Onyx;SJB Bioenergia;RN;17/11/20;1
+SEP;152266;Fulllab Corretora de Seguros;Fulllab Corretora de Seguros;Primax Transportes;PA;16/11/20;2
+SEP;100209;Kasmanas Assessoria;Kasmanas Assessoria;Fujioka Eletro Imagem;RR;17/11/20;1
+LCO;282208;Porto Central Engenharia;Porto Central Engenharia;Dakota S/A;PA;11/11/20;7
+DTV;110491;Celmi Tecnologia em Pesagem;Celmi Tecnologia em Pesagem;RFM Construtora;RN;17/11/20;1
+DTV;38368;Vital Alimentos;Vital Alimentos;Battistella Veiculos;PA;08/11/20;10
+MFR;2378;Belvedere Investimentos;Belvedere Investimentos;Editora Vetor;MG;11/11/20;7
+ALG;44382;Becker Imóveis;Becker Imóveis;Mercotudos S/A;MS;19/10/20;30
+ALG;214;Tolentino Investimentos;Tolentino Investimentos;Magna Sistemas;MS;07/11/20;11
+ALG;32;Souza Telecomunicações;Souza Telecomunicações;Grupo Santine;MS;10/11/20;8
+PNR;1430573;Casa da Borracha Fedrizi;Casa da Borracha Fedrizi;Prodepa;AM;31/10/20;18
+PNR;53222;Naturale Projetos;Naturale Projetos;Todeschini;AM;01/11/20;17
+PNR;1431614;Dinamo Engenharia;Dinamo Engenharia;Cemar;AM;04/11/20;14
+PNR;1433932;Argon Otimização de Sites;Kalunga Papelaria;Kalunga Papelaria;AM;11/11/20;7
+RLP;52618;Construtora MBR;Construtora MBR;Hotel Urbano;BA;14/11/20;4
+RLP;474206;Geofast;Geofast;Marilan Alimentos S/A;BA;17/11/20;1
+RLP;10800;SBN Portifolios;SBN Portifolios;Synergy Group;BA;14/11/20;4
+RLP;10780;Delta Informática;Klabin;Klabin;BA;17/11/20;1
